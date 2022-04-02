@@ -14,5 +14,5 @@ log = logging.getLogger(__name__)
     Filters.private & Filters.incoming & ~Filters.user(Config.AUTH_USERS)
 )
 async def _non_auth_usr_msg(c: UtubeBot, m: Message):
-    await m.delete(True)
+    await m.delete(false)
     
