@@ -35,7 +35,7 @@ class Messages:
 
     NOT_A_REPLY_MSG = "Please reply to some video file." 
 
-    NOT_A_MEDIA_MSG = "No media file found. " + NOT_A_REPLY_MSG 
+    NOT_A_MEDIA_MSG = "No media file found. "
 
     NOT_A_VALID_MEDIA_MSG = "This is not a valid media" 
 
