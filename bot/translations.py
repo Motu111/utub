@@ -16,11 +16,11 @@ class Messages:
         "choise.Title will follow the __`/upload`.__If no title means file name as title.__"
         "\n\n**Call 4:** __I will download it and upload it on YT.__\n\n**Call 5:** __I "
         "Will send you the link after uploading.__",
-        "**Verify your YouTube account**\n\nYoutube take spam and abuse very seriously. So you are asked to verify "
-        "your Youtube account. Once you've verified your account, you will be able to upload videos longer than 15 "
-        "minutes. If you haven't verified your account every video uploaded which are longer than 15 minutes will be "
-        "removed.\n[Verify your Youtube account here.](http://www.youtube.com/verify)\n\n__Remember to verify your "
-        "project, else your uploads will be kept private.__",
+        "**Verifying the YT account **\n\nYoutube is not flower its a fire 🔥. So you are asked to verify "
+        " after verifying your account you can upload videos longer than 15 minutes "
+        "minutes. this is why it is very important, otherwise the video will be deleted"
+        "or removed.\n[Verify your Youtube account here.](http://www.youtube.com/verify)\n\n__Now go to next page 🌟🌟 "
+        "okk.__",
         "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that "
         "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
         "send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect "
