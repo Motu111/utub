@@ -19,7 +19,7 @@ log = logging.getLogger(__name__)
 )
 async def _auth(c: UtubeBot, m: Message) -> None:
     if len(m.command) == 1:
-        await m.reply_text(tr.NO_AUTH_CODE_MSG, False)
+        await m.reply_text(tr.NO_AUTH_CODE_MSG, true)
         return
 
     code = m.command[1]
@@ -55,7 +55,6 @@ async def _auth(c: UtubeBot, m: Message) -> None:
     & Filters.incoming
     & Filters.command("save_auth_data")
     & Filters.reply
-    & Filters.user(Config.AUTH_USERS)
 )
 async def _save_auth_data(c: UtubeBot, m: Message) -> None:
     auth_data = m.reply_to_message.text
