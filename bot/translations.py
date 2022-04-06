@@ -16,11 +16,6 @@ class Messages:
         "choise.Title will follow the __`/upload`.__If no title means file name as title.__"
         "\n\n**Call 4:** __I will download it and upload it on YT.__\n\n**Call 5:** __I "
         "Will send you the link after uploading.__",
-        "**Create your youtube channel**\n\nThere is no point in using me if you dont have a Youtube Channel.So go "
-        "through the given steps to create one.\n\n**Step 1:** __Sign in to YouTube on a computer or using the mobile."
-        "__\n\n**Step 2:** __Try any action that requires a channel, such as uploading a video, posting a comment, "
-        "or creating a playlist.__\n\n**Step 3:** __If you don't yet have a channel, you'll see a prompt to create "
-        "a channel.__\n\n**Step 4:** __Check the details and confirm to create your new channel.__",
         "**Verify your YouTube account**\n\nYoutube take spam and abuse very seriously. So you are asked to verify "
         "your Youtube account. Once you've verified your account, you will be able to upload videos longer than 15 "
         "minutes. If you haven't verified your account every video uploaded which are longer than 15 minutes will be "
