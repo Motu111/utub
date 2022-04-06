@@ -13,9 +13,9 @@ class Messages:
         "**Here i will tell how i work.**\n\n**Call 1:** __Authorise me to upload to your youtube channel "
         "It is so easy.__\n\n**Call 2:** __forward me any Telegram file of any size.__\n\n**Call 3:** __You have to reply "
         "__/upload __to the forwarded video file.You can also give me a title, its your "
-        "choise.Title will follow the __`/upload`.__If no title is given, filename will be used as title.__"
-        "\n\n**Step 4:** __I remotely download the file and uploads to your Youtube channel.__\n\n**Step 5:** __I "
-        "send you the Youtube link after upload.__",
+        "choise.Title will follow the __`/upload`.__If no title means file name as title.__"
+        "\n\n**Call 4:** __I will download it and upload it on YT.__\n\n**Call 5:** __I "
+        "Will send you the link after uploading.__",
         "**Create your youtube channel**\n\nThere is no point in using me if you dont have a Youtube Channel.So go "
         "through the given steps to create one.\n\n**Step 1:** __Sign in to YouTube on a computer or using the mobile."
         "__\n\n**Step 2:** __Try any action that requires a channel, such as uploading a video, posting a comment, "
