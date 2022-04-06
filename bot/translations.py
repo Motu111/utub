@@ -10,10 +10,10 @@ class Messages:
         "Hello boss.\n\nHii. Every video uploaded by you is processed by YT, "
         "if you upload copyright video then you can be blocked "
         "so be alert, and you will not be able to publish the video.\n\nRead all pages carefully.",
-        "**Here i will tell how i work.**\n\n**Step 1:** __Authorise me to upload to your youtube channel "
-        "It is so easy.__\n\n**Step 2:** __You forward any Telegram video to me.__\n\n**Step 3:** __You reply "
-        "__/upload __to the forwarded video file.You can also specify some title in the upload command, but its "
-        "optional though.Title will follow the __`/upload`.__If no title is given, filename will be used as title.__"
+        "**Here i will tell how i work.**\n\n**Call 1:** __Authorise me to upload to your youtube channel "
+        "It is so easy.__\n\n**Call 2:** __forward me any Telegram file of any size.__\n\n**Call 3:** __You have to reply "
+        "__/upload __to the forwarded video file.You can also give me a title, its your "
+        "choise.Title will follow the __`/upload`.__If no title is given, filename will be used as title.__"
         "\n\n**Step 4:** __I remotely download the file and uploads to your Youtube channel.__\n\n**Step 5:** __I "
         "send you the Youtube link after upload.__",
         "**Create your youtube channel**\n\nThere is no point in using me if you dont have a Youtube Channel.So go "
