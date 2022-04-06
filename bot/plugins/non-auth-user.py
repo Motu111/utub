@@ -16,5 +16,5 @@ log = logging.getLogger(__name__)
 async def _non_auth_usr_msg(c: UtubeBot, m: Message):
     await m.delete(false)
     log.info(
-        f"{Config.AUTH_USERS} Unauthorised user {m.chat} contacted. Message {m} "to use me contact my boss" !!"
+        f"{Config.AUTH_USERS} Unauthorised user {m.chat} contacted. Message {m} print {to use me contact my boss.}
     )
