@@ -7,7 +7,7 @@ class Messages:
 
     HELP_MSG = [
         ".",
-        "Hi there.\n\nHii. You should be aware that youtube processes each and every video uploaded, "
+        "Hi there.\n\nHii. Every video uploaded by you is processed by YT, "
         "and its AI is amazing that it flags the video for copyrights if it finds copywrited content as soon as its "
         "uploaded, and you will not be able to publish the video.\n\nRead through all the pages to know how I work.",
         "**Lets learn how I work.**\n\n**Step 1:** __You authorise me to upload to your youtube channel.More about "
