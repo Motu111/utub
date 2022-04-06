@@ -7,9 +7,9 @@ class Messages:
 
     HELP_MSG = [
         ".",
-        "Hi there.\n\nHii. Every video uploaded by you is processed by YT, "
-        "and its AI is amazing that it flags the video for copyrights if it finds copywrited content as soon as its "
-        "uploaded, and you will not be able to publish the video.\n\nRead through all the pages to know how I work.",
+        "Hello boss.\n\nHii. Every video uploaded by you is processed by YT, "
+        "if you upload copyright video then you can be blocked "
+        "so be alert, and you will not be able to publish the video.\n\nRead through all the pages to know how I work.",
         "**Lets learn how I work.**\n\n**Step 1:** __You authorise me to upload to your youtube channel.More about "
         "this in comming pages.__\n\n**Step 2:** __You forward any Telegram video to me.__\n\n**Step 3:** __You reply "
         "__/upload __to the forwarded video file.You can also specify some title in the upload command, but its "
