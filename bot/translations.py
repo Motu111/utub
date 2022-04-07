@@ -21,8 +21,8 @@ class Messages:
         "minutes. this is why it is very important, otherwise the video will be deleted"
         "or removed.\n[Verify your Youtube account here.](http://www.youtube.com/verify)\n\n__Now go to next page 🌟🌟 "
         "okk.__",
-        "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that "
-        "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
+        "** authorisation.**\n\nI cant upload videos until you give me access.For that "
+        "open the below link and copy the code amd send it to me and type `/authorise copied-code` and "
         "send it.\n\n**Last page!**\nAll done it was an long process "
         " meet u in uploading videos "
         "byy.",
