@@ -1,8 +1,8 @@
 class Messages:
 
     START_MSG = (
-        "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube "
-        "once you authorise me.You can know more from /help.\n\nthis bot will not work until you got access from my boss Thank you."
+        "Hello freind 😀 {}.\n\nMyself telegram to YouTube uploader bot 😎. I upload videosfrom telegram to YouTube 😯 "
+        "next step /help if you have access .\n\nthis bot will not work until you got access from my boss Thank you."
     )
 
     HELP_MSG = [
@@ -23,9 +23,9 @@ class Messages:
         "okk.__",
         "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that "
         "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
-        "send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect "
-        "one's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here "
-        "writing Telegram Bots.",
+        "send it.\n\n**Last page!**\nAll done it was an long process "
+        " meet u in uploading videos "
+        "byy.",
     ]
 
     NOT_A_REPLY_MSG = "Please reply to some video file."
